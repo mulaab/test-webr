@@ -14,3 +14,7 @@ filters:
 ```{webr}
 message("hello")
 ```
+
+```{r}
+plot(1:10)
+```
