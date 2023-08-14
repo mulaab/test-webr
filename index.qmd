@@ -1,6 +1,6 @@
 ---
 title: "Testing"
-format: html
+format: pdf
 filters:
 - webr
 ---
